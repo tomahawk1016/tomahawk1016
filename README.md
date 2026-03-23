@@ -100,16 +100,6 @@ I'm available for:
 - 💼 **Multi-Chain Solutions**: Wallet systems and infrastructure development
 - 🏢 **Enterprise Solutions**: Private deployment and custom blockchain solutions
 
----
-
-<div align="center">
-
-### 📬 Contact Me
-
-[![Discord](https://img.shields.io/badge/Discord-@tomahawk.1016-26A5E4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1470805474579451958)
-[![Email](https://img.shields.io/badge/Email-tomahawk1016@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomahawk1016@gmail.com)
-
----
 
 <p align="center">
   <i>💎 Building secure and efficient blockchain solutions 🚀</i>
